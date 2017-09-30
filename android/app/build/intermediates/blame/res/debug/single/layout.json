@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.47.1\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoconfig.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\videoconfig.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\role_list.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\role_list.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.47.1\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.47.1\\res\\layout\\redbox_view.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_session.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\video_session.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_frame.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\video_frame.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.47.1\\res\\layout\\fps_view.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.47.1\\res\\layout\\redbox_item_frame.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    }
+]

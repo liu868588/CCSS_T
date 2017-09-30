@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoremote_bg.jpg",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\drawable-hdpi\\videoremote_bg.jpg"
+    },
+    {
+        "merged": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_background.xml",
+        "source": "I:\\react_native_workspace\\CCSS_T_client\\android\\app\\src\\main\\res\\drawable-hdpi\\button_background.xml"
+    }
+]
